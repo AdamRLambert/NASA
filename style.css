@@ -21,7 +21,7 @@ main {
     align-items: center;
     justify-content: center;
     height: 450px;
-   background-image: url(milky-way.jpeg);
+   background-image: url("./milky-way.jpeg");
 }
 
 h1 {font-size: 80px;
