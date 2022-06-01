@@ -1,0 +1,38 @@
+.social-media {
+  
+    background-color: rgb(218, 215, 208);
+    height: 324px; 
+    width: 270px;
+}
+.office-info{
+    background-color: rgb(218, 215, 208);
+    height: 324px;
+    width: 270px;
+}
+
+.Contact-us{
+    background-color: rgb(218, 215, 208);
+    height: 324px;
+    width: 270px;
+
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+   background-image: url(milky-way.jpeg);
+}
+
+h1 {font-size: 80px;
+color: azure;}
+body {
+    margin: 0 auto;
+    width: 850px;
+}
+section {
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(218, 215, 208);
+
+}
